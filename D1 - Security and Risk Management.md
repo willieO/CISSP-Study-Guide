@@ -5,7 +5,7 @@
 
 ### Understand and apply concepts of confidentiality, integrity and availability
 #### Definitions and examples
-* Confidentiality - Making sure the right people can access the material.  Data must be classified so the administrators knows exactly who should have access.  Users must Identify themselves, authenticate, and then be given authorization before having access.  Contents must be encrypted or restricted for users who don't do the above.
+* Confidentiality - Making sure the right people can access the material.  Data must be classified so the administrators know exactly who should have access.  Users must Identify themselves, authenticate, and then be given authorization before having access.  Contents must be encrypted or restricted for users who don't do the above.
   * End to End symetric encryption holds confidentiality because only users with a key can see the data
   * File permissions only allow authorized users to view the contents
 * Integrity - Protected from changes
@@ -26,7 +26,7 @@ CIA TRIAD - You can't have maximum levels of everything
 
 
 ### Evaluate and apply security governance principles
-##### English please?? - These are just defined roles, and processes for each role, to make sure executive management is informed about IT decisions being made.  This makes sure that information is appropriately secured, communicated, documented, and budgeted for.  It's like a questionaire.  Look at ISO 27000 to get requimrents for which security frameworks you should impliment.  Think of security frameworks as blue prints and governance principles(iso 27000 or togaf) as guides for how to draw blueprints.
+##### English please?? - These are just defined roles, and processes for each role, to make sure executive management is informed about IT decisions being made.  This makes sure that information is appropriately secured, communicated, documented, and budgeted for.  It's like a questionaire.  Look at ISO 27000 to get requirements for which security frameworks you should implement.  Think of security frameworks as blue prints and governance principles(iso 27000 or togaf) as guides to how to draw blueprints.
 * Alignment of security function to business strategy, goals, mission, and objectives
   * Have to analyze cost of loss/thieft information, cost to impliment controls, and the benefit to organization by certain controls.
 * Organizational processes (e.g., acquisitions, divestitures, governance committees)
